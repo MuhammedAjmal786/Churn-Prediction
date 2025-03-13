@@ -16,6 +16,8 @@ This repository contains  and analyses related to Churn prediction, including:
 📦 Diabetes-Prediction
 ├── 📂 churn_prediction                # Exploratory Data Analysis (EDA) scripts
 ├── 📂 App      # Streamlit-based Diabetes Prediction app
+├──  model         # Saved model using pickle
+├──  Churn_Modelling        # Dataset
 ├── 📜 requirements.txt  # Dependencies
 ├── 📜 LICENSE           # License file
 ├── 📜 README.md         # Project Documentation

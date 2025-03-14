@@ -3,7 +3,7 @@
 This repository contains  and analyses related to Churn prediction, including:
 
 - **Exploratory Data Analysis (EDA)** of a Churn_Modelling dataset.
-- **Streamlit Web Application** for Diabetes Prediction.
+- **Streamlit Web Application** for Churn Prediction.
 
 ## 📌 Features
 - Perform EDA to understand the dataset and key patterns.
@@ -38,7 +38,7 @@ This repository contains  and analyses related to Churn prediction, including:
    ```
 
 3. Run the applications:
-   - **EDA**: Run Jupyter notebooks inside the `eda` folder.
+   - **EDA**: Run Jupyter notebooks inside the `churn_prediction` folder.
    - **Streamlit App**:
      ```bash
      cd App
